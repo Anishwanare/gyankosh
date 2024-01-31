@@ -67,7 +67,7 @@ app.use("/api", userRecordRouter);
 app.use("/api", paymentRouter);
 
 app.get("/", (req, res) => {
-  res.status(200).send("Hello World");
+  res.status(200).send("Hello nikhil");
 });
 
 // starting express server
