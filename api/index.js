@@ -28,7 +28,7 @@ app.use(
     origin: [
       "http://dnwgyankosh.com",
       "http://api.dnwgyankosh.com",
-      "http://localhost:8090",
+      "http://localhost:8030",
     ],
     methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
     credentials: true,
